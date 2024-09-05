@@ -11,6 +11,9 @@ public class Employee {
     private String vilage;
 
 
+    private String city1;
+
+
 
     // Constructor
     public Employee(long id, String name, double salary, String department, String contact, String city) {
