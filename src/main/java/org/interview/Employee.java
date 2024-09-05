@@ -7,6 +7,10 @@ public class Employee {
     private String department;
     private String contact;
     private String city;
+    private String wdasf;
+    private String vilage;
+
+
 
     // Constructor
     public Employee(long id, String name, double salary, String department, String contact, String city) {
